@@ -32,12 +32,11 @@ h6 {
   margin-top: 20px;
   text-align: left !important;
   width: 100%;
+  background-image: About me;
 }
-img {
-  padding: 5px;
-  max-width: 100%;
-  height: auto;
-  opacity: 0.5;
+
+img:hover{
+  opacity: .5;
 }
 
 p {
@@ -252,7 +251,7 @@ main {
 }
 
 .surf-report {
-  
+  background-image: url("Surf Report.webp");
 }
 
 /* media queries */
